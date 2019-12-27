@@ -1,0 +1,53 @@
+body {
+  color:#000000; /*#828282;*/
+  padding-top: 60px;
+  background-color:#eee;
+}
+.starter-template {
+  padding: 10px 10px;
+}
+
+a,a:hover {
+	color:#ee0000;
+  	text-decoration:none;
+}
+
+
+.center {
+    margin: 0 auto;
+    width: 80%;
+}
+
+@media only screen and (max-width: 979px) {
+    #noshow {
+        display: none;
+    }
+}
+
+@media (min-width: 979px) {
+    #noshow2 {
+        display: none;
+    }
+}
+
+.up-space {
+     margin-top: 8mm;
+  }
+
+.up-space2 {
+     margin-top: 27mm;
+     margin-right: 5mm;
+  }
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+h3.centered {
+  text-align: center;
+}
+
+p.centered {
+  text-align: center;
+}
